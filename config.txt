@@ -1,0 +1,12 @@
+QClaw Project Configuration
+============================
+
+Project Name: my-project
+Created: 2026-06-08
+Owner: goodwd861
+Description: QClaw
+
+## Files
+- README.md
+- config.txt
+- src/main.py
